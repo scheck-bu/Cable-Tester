@@ -1,0 +1,54 @@
+//from,to,min,max,units,range,IO1,IO2,test method,precision
+name= SELF TEST,,,,,,,,,
+meter sn=18240,,,,,,,,,
+daq sn=3FC757 ,,,,,,,,,
+mode=manual,,,,,,,,,
+
+D1-1,D2-1,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-2,D2-2,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-3,D2-3,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-4,D2-4,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-5,D2-5,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-6,D2-6,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-7,D2-7,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-8,D2-8,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-9,D2-9,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-10,D2-10,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-11,D2-11,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-12,D2-12,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-13,D2-13,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-14,D2-14,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-15,D2-15,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-16,D2-16,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-17,D2-17,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-18,D2-18,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-19,D2-19,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-20,D2-20,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-21,D2-21,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-22,D2-22,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-23,D2-23,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-24,D2-24,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-25,D2-25,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-26,D2-26,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-27,D2-27,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-28,D2-28,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-29,D2-29,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-30,D2-30,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-31,D2-31,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-32,D2-32,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-33,D2-33,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-34,D2-34,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-35,D2-35,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-36,D2-36,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-37,D2-37,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-38,D2-38,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-39,D2-39,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-40,D2-40,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-41,D2-41,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-42,D2-42,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-43,D2-43,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-44,D2-44,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-45,D2-45,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-46,D2-46,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-47,D2-47,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+D1-48,D2-48,NA,1,Ohms,MIN,NONE,NONE,resistance,3

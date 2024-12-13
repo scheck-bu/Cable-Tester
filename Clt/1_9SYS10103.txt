@@ -1,0 +1,33 @@
+P/N: 9SYS10103	Dut S/N: 1 Date: 11/3/2014 7:47:53 AM	  Operator: ww
+Meter S/N: 118240,,,,,,,,, Cal Due:  7/12/2015
+
+PASS
+
+FROM      	TO       	  MIN	  MAX	      MEAS	  UNITS
+______________________________________________________________________
+P901-D         	P902-1         	   NA	    1	0.138797392	  Ohms
+P901-B         	P902-B         	   NA	    1	0.146613232	  Ohms
+P901-L         	P902-L         	   NA	    1	0.146252992	  Ohms
+P901-X         	P902-X         	   NA	    1	0.144016352	  Ohms
+P901-7         	P902-7         	   NA	    1	0.144323776	  Ohms
+P901-4         	P902-4         	   NA	    1	0.142746624	  Ohms
+P901-V         	P902-V         	   NA	    1	0.143220048	  Ohms
+P901-G         	P902-G         	   NA	    1	0.145538352	  Ohms
+P901-6         	P902-6         	   NA	    1	0.145987056	  Ohms
+P901-T         	P902-T         	   NA	    1	0.107787248	  Ohms
+P901-HI        	P902-HI        	   NA	    1	0.280462848	  Ohms
+P901-HC        	P902-HC        	   NA	    1	0.306689088	  Ohms
+P901-HO        	P902-HO        	   NA	    1	0.128921304	  Ohms
+P901-KI        	P902-KI        	   NA	    1	0.269315744	  Ohms
+P901-KC        	P902-KC        	   NA	    1	0.32043296	  Ohms
+P901-KO        	P902-KO        	   NA	    1	0.15025872	  Ohms
+P901-3         	P902-C         	   NA	    1	0.108505192	  Ohms
+P901-5         	P902-D         	   NA	    1	 0.1083104	  Ohms
+P901-2         	P902-F         	   NA	    1	0.0833770944	  Ohms
+P901-W         	P902-E         	   NA	    1	0.0857352384	  Ohms
+P901-J         	P902-J         	   NA	    1	  0.105902	  Ohms
+P901-M         	P902-M         	   NA	    1	0.10455812	  Ohms
+P901-P         	P902-P         	   NA	    1	0.10516968	  Ohms
+P901-Z         	P902-Z         	   NA	    1	0.10771504	  Ohms
+P901-S         	P902-S         	   NA	    1	0.140754112	  Ohms
+P901-SHIELD    	P902-SHIELD    	   NA	    1	0.0722322112	  Ohms

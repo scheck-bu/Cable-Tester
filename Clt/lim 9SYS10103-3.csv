@@ -1,0 +1,49 @@
+//from,to,min,max,units,range,IO1,IO2,test method,precision
+name= 9SYS10103-3,,,,,,,,,
+meter sn=118240,,,,,,,,,
+daq sn=13FC757 ,,,,,,,,,
+mode=manual,,,,,,,,,
+
+CanisterID
+P6Jumpers
+
+P901-D,P902-1,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-B,P902-B,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-L,P902-L,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-X,P902-X,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-7,P902-7,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-4,P902-4,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-V,P902-V,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-G,P902-G,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-6,P902-6,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-T,P902-T,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+
+P901-HI,P902-HI,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-HI,P902-HC,OPEN,NA,Ohms,MAX,5.00000010,9.10000000,resistance,3
+P901-HI,P902-HO,OPEN,NA,Ohms,MAX,5.00000010,9.10000000,resistance,3
+
+P901-HC,P902-HC,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-HC,P902-HO,OPEN,NA,Ohms,MAX,5.00000010,9.10000000,resistance,3
+P901-HO,P902-HO,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+
+P901-KI,P902-KI,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-KI,P902-KC,OPEN,NA,Ohms,MAX,5.00000010,9.10000000,resistance,3
+P901-KI,P902-KO,OPEN,NA,Ohms,MAX,5.00000010,9.10000000,resistance,3
+
+P901-KC,P902-KC,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-KC,P902-KO,OPEN,NA,Ohms,MAX,5.00000010,9.10000000,resistance,3
+P901-KO,P902-KO,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+
+P901-3,P902-C,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-5,P902-D,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-2,P902-F,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-W,P902-E,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+
+P901-J,P902-J,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-M,P902-M,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-P,P902-P,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P901-Z,P902-Z,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+
+P901-S,P902-S,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+
+P901-SHIELD,P902-SHIELD,NA,1,Ohms,MIN,NONE,NONE,resistance,3

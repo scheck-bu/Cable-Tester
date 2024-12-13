@@ -1,0 +1,9 @@
+//from,to,min,max,units,range,IO1,IO2,test method,precision
+name= CUAS_LONG,,,,,,,,,
+meter sn=118240,,,,,,,,,
+daq sn=13FC757 ,,,,,,,,,
+mode=manual,,,,,,,,,
+voltage=18
+current=2.5
+PS,P5-24,NA,1,Ohms,MIN,NONE,NONE,resistance,3
+P4-13,P5-24,NA,1,Ohms,MIN,NONE,NONE,resistance,3
