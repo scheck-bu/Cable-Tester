@@ -1,0 +1,2 @@
+dataDir=c:\cableTestData
+NIDriversDir=C:\Program Files\National Instruments\MeasurementStudioVS2010\DotNET\Assemblies\Current
