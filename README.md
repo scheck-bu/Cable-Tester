@@ -1,9 +1,9 @@
 # Cable-Tester
 
 ## Installation
-Copy the contents of the bin folder to ... <br />
+Create a folder in the root of the "C" drive called "CableTester" then copy the contents of the "bin/debug" folder into it. <br />
 
+Copy the "Clt" folder to the root of the "C" drive. <br />
 
 ## Description
-
-An application for automating the testing of airline harnesses. Application uses a configuration file to control a switch matrix for routing. Measurements are taken using a Keithley DMM.
+This is an application for automating the testing of airline harnesses. Application uses a configuration file to control a switch matrix for routing. Measurements are taken using a Keithley DMM.
