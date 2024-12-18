@@ -1,4 +1,4 @@
-# Cable-Tester
+# Cable Tester
 
 ## Requirements
 National Instruments Visa Driver <br />
