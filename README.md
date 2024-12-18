@@ -1,5 +1,9 @@
 # Cable-Tester
 
+## Requirements
+National Instruments Visa Driver <br />
+Keithley 2100 series DMM <br />
+
 ## Installation
 Create a folder in the root of the "C" drive called "CableTester" then copy the contents of the "bin/debug" folder into it. <br />
 
