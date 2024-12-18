@@ -11,4 +11,4 @@ Create a folder in the root of the "C" drive called "CableTester" then copy the 
 Copy the "Clt" folder to the root of the "C" drive. <br />
 
 ## Description
-This is an application for automating the testing of airline harnesses. Application uses a configuration file to control a switch matrix for routing. Measurements are taken using a Keithley DMM.
+This application automates continuity testing of airline harnesses. Application uses a configuration file to control a switch matrix for routing. Measurements are taken using a Keithley DMM specified in the requirements.
