@@ -2,6 +2,7 @@
 
 ## Requirements
 National Instruments Visa Driver <br />
+National Instruments USB-6501 Ditital I/O Device <br />
 Keithley 2100 series DMM <br />
 
 ## Installation
